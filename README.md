@@ -11,6 +11,7 @@
 <ul>
   <li><i>Flutter Framework</i></li>
   <li><i>React Framework</i></li>
+  <li><i>Dart Programming</i></li>
   <li><i>Java Programming</i></li>
   <li><i>GitHub Desktop</i></li>
   <li><i>UX/UI Design</i></li>
