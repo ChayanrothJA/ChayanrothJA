@@ -1,5 +1,5 @@
 <h2>👋 Hey</h2>
-<p>✨ I'm Chayanroth Pongsathaphorn, but you can call me JAR! ✨</p>
+<p>✨ I'm Chayanroth Pongsathaphorn,you can call me JAR! ✨</p>
 
 <h2>📖 I'm Currently a Student</h2>
 <ul>
